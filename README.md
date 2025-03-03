@@ -15,8 +15,9 @@ This is a simple webapp made to simplify the process of asking a girl out. It wo
 
 ## ⭐ Showcase
 
-<video src="https://github.com/DontCallMeLuca/Ask-a-Girl-Out/blob/main/GreatestDesign.mp4" controls="controls" muted="muted" style="max-width:1080px">
-</video>
+To see it in action: [Showcase](https://youtu.be/5K_IrRx9ttc)
+
+(Github doesn't properly support videos)
 
 ## 🛠 Requirements
 
