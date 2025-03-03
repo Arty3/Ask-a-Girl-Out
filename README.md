@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<h1 align="center">✨ Ask a Girl Out ✨</h1>
 
-## Getting Started
+<h6 align="center"><em>Because real women are scary</em></h6>
 
-First, run the development server:
+## 📝 Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+This is a simple webapp made to simplify the process of asking a girl out. It works by redirecting the interaction to a screen rather than actual human emotions.
+
+(This is a joke and was made for fun, don't take this seriously)
+
+## ✨ Features
+
+- 100% success rate
+- The worst she could say is no
+
+## ⭐ Showcase
+
+<video src="https://github.com/DontCallMeLuca/Ask-a-Girl-Out/GreatestDesign.mp4" controls="controls" muted="muted" style="max-width:1080px">
+</video>
+
+## 🛠 Requirements
+
+- [Nodejs](https://nodejs.org/en)
+
+## 🚀 Installation
+
+1. Clone the repository:
+
+```sh
+git clone https://github.com/DontCallMeLuca/Ask-a-Girl-Out
+cd Ask-a-Girl-Out
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Install dependencies:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```sh
+npm install framer-motion
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+3. Run
 
-## Learn More
+```sh
+npm run dev
+```
 
-To learn more about Next.js, take a look at the following resources:
+## 💻 Usage
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. You can host and deploy your own instance, see: [Deploying](https://nextjs.org/docs/pages/building-your-application/deploying)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+2. Make her open your website
 
-## Deploy on Vercel
+3. Marrige
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## ⚠ Limitations
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- I made it
+- Doesn't actually work
