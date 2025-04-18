@@ -28,7 +28,7 @@ To see it in action: [Showcase](https://youtu.be/5K_IrRx9ttc)
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/DontCallMeLuca/Ask-a-Girl-Out
+git clone https://github.com/Arty3/Ask-a-Girl-Out
 cd Ask-a-Girl-Out
 ```
 
